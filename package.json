@@ -1,0 +1,11 @@
+{
+  "name": "tictactoe-react",
+  "version": "1.0.0",
+  "description": "Simple TicTacToe game written in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tina M. Thomas",
+  "license": "ISC"
+}
